@@ -1,2 +1,3 @@
+import rectange
 class shape:
-	Area()
+	rectangel::area(2,4);
